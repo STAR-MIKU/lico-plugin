@@ -1,0 +1,22 @@
+{
+  "code": 200,
+  "message": "获取成功",
+  "request_id": "req_20260227165932001",
+  "recommend": ["编辑推荐", "娱乐"],
+  "data": [
+    {
+      "plugin_id": "plugin-c4ca4238a0b923820dcc509a6f75849b",
+      "plugin_title": "偷你ctrl键喵",
+      "file_url": "files/plugin-c4ca4238a0b923820dcc509a6f75849b.licoplugin",
+      "tags": ["卡拉彼丘", "娱乐"],
+      "created_at": "2026-11-1 10:00:00"
+    },
+    {
+      "plugin_id": "plugin-c81e728d9d4c2f636f067f89cc14862c",
+      "plugin_title": "偷你ctrl键喵",
+      "file_url": "files/plugin-c81e728d9d4c2f636f067f89cc14862c.licoplugin",
+      "tags": ["卡拉彼丘", "娱乐"],
+      "created_at": "2026-11-1 10:00:00"
+    },
+  ]
+}
